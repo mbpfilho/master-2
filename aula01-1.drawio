@@ -194,9 +194,6 @@
         <mxCell id="HygxTOMGA-l27CwLSRFN-38" value="nome" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="115" y="870" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="HygxTOMGA-l27CwLSRFN-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HygxTOMGA-l27CwLSRFN-40" target="HygxTOMGA-l27CwLSRFN-40">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="HygxTOMGA-l27CwLSRFN-44" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="159.33" y="1190" as="sourcePoint" />
