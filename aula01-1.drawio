@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="OWs0vWbREfOvVOroRO99">
-    <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1912" dy="1040" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -111,6 +111,97 @@
         </mxCell>
         <mxCell id="HygxTOMGA-l27CwLSRFN-25" value="preco" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="485" y="395" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="HygxTOMGA-l27CwLSRFN-26" value="&lt;font size=&quot;3&quot;&gt;início&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="630" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HygxTOMGA-l27CwLSRFN-27" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="159.5" y="710" as="sourcePoint" />
+            <mxPoint x="159.5" y="760" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="159.5" y="720" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HygxTOMGA-l27CwLSRFN-28" value="toto" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HygxTOMGA-l27CwLSRFN-30" value="raca" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="120" y="1110" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HygxTOMGA-l27CwLSRFN-31" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="159.5" y="950" as="sourcePoint" />
+            <mxPoint x="159.5" y="1000" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="159.5" y="960" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HygxTOMGA-l27CwLSRFN-32" value="" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="105" y="1380" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HygxTOMGA-l27CwLSRFN-33" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="159.5" y="1460" as="sourcePoint" />
+            <mxPoint x="159.5" y="1510" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="159.5" y="1470" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HygxTOMGA-l27CwLSRFN-34" value="fim" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="1510" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HygxTOMGA-l27CwLSRFN-35" value="raca" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="130" y="1395" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="HygxTOMGA-l27CwLSRFN-36" value="fila" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="1000" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HygxTOMGA-l27CwLSRFN-37" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="159.33" y="1060" as="sourcePoint" />
+            <mxPoint x="159.33" y="1110" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="159.33" y="1070" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HygxTOMGA-l27CwLSRFN-39" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="159.33000000000007" y="1330" as="sourcePoint" />
+            <mxPoint x="159.33000000000007" y="1380" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="159.33000000000007" y="1340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HygxTOMGA-l27CwLSRFN-40" value="" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="105" y="1250" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HygxTOMGA-l27CwLSRFN-41" value="nome" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="130" y="1265" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="HygxTOMGA-l27CwLSRFN-42" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="HygxTOMGA-l27CwLSRFN-38">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="159.5" y="820" as="sourcePoint" />
+            <mxPoint x="159.5" y="870" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HygxTOMGA-l27CwLSRFN-38" value="nome" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="115" y="870" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HygxTOMGA-l27CwLSRFN-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HygxTOMGA-l27CwLSRFN-40" target="HygxTOMGA-l27CwLSRFN-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HygxTOMGA-l27CwLSRFN-44" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="159.33" y="1190" as="sourcePoint" />
+            <mxPoint x="159.33" y="1250" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
